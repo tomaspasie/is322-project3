@@ -1,4 +1,4 @@
-Link to Deployed Project: https://is322-project3-e05ae.web.app/
+Link to Deployed Project (Hosted By Firebase): https://is322-project3-e05ae.web.app/
 
 Project Requirements:
 
