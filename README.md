@@ -28,9 +28,9 @@ On account page, add ability to deposit and withdraw money with each transaction
 
 Notes:
 
-• MobileVariablePage.js works and displays fine locally but I found that it does not display correctly in the deplyed website.
+• MobileVariablePage.js works and displays fine locally but I found that it does not display correctly in the deployed website.
 
-• The variable pages (VariablePage.js and MobileVariablePage.js) seem not display the updated name and balance because I'm not calling from the redux state. I had to set Line 112 and Line 113 to get the value from this.state because I was getting undefined variables when trying to access specific values in the redux state in the variable pages despite being able to access it as a whole. I spent many hours trying to fix this but ultimatly could not find a solution.
+• The variable pages (VariablePage.js and MobileVariablePage.js) seem to not display the updated name and balance because I'm not calling from the redux state. I had to set Line 112 and Line 113 to get the value from this.state because I was getting undefined variables when trying to access specific values in the redux state in the variable pages despite being able to access it as a whole. I spent many hours trying to fix this but ultimatly could not find a solution.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
